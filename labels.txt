@@ -1,0 +1,17 @@
+0 Afghan
+1 Border Collie
+2 Boxer
+3 Bull Mastiff
+4 Chihuahua
+5 Doberman
+6 Elk Hound
+7 German Sheperd
+8 Golden Retriever
+9 Great Dane
+10 Labrador
+11 Pit Bull
+12 Pomeranian
+13 Poodle
+14 Pug
+15 Shiba Inu
+16 Siberian Husky
